@@ -2,7 +2,7 @@
 
 In this project, I have created a Convolutional Neural Network using zipfile images of dogs and cats. 
 
-# Neccesary Libraries have been imported
+# Import the libraries 
 
 Including: (tensorflow and matplotlib)
 
