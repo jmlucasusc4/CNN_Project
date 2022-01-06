@@ -1,7 +1,5 @@
 # Convolutional Neural Network
 
-# Convolutional Neural Network
-
 In this project, I have created a Convolutional Neural Network using zipfiles of dogs and cats. 
 
 # Neccesary Libraries have been imported
